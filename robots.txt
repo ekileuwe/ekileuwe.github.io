@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekileuwe.github.io/ByP/sitemap_index.txt
+Sitemap: https://ekileuwe.github.io/Oga/sitemap_index.txt
+Sitemap: https://ekileuwe.github.io/gbm/sitemap_index.txt
+Sitemap: https://ekileuwe.github.io/oZE/sitemap_index.txt
